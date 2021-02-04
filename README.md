@@ -1,9 +1,14 @@
 # SEA-pop-growth-2001-2010
 Average annual population growth of countries in South East Asia from 2001 to 2010 in QGIS
 
+# How to Use
+The scale for average annual population growth rates is done in 1% increments from 0%. Some districts have growth rates much higher than 5% but it would obscure the data from other districts to break it down further. There is no district level population growth data from Thailand, Singapore and Brunei.
+
+Please feel free to use the compiled shape files and data for the region for your own analysis!
+
 # File names
-- Country border shape files: "_country_ shape.zip"
-- Country administrative level 1 borders shapefiles: "_country_.zip"
+- Administrative level 0 (country) shape files: "_country_ shape.zip"
+- Administrative level 1 (district) shapefiles: "_country_.zip"
 - Country population growth rates: "_country_ -pop-growth.csv"
 
 # Data Sets
